@@ -1,5 +1,5 @@
 #ignore single files
-new-file.txt
+another-file.txt
 #ignore directories
 bin/
 #ignore all .tmp files
